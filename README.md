@@ -2,7 +2,7 @@
 
 So far I've learned how to 
 1. Get setup with Git and Github
-	i. Insatlling Git 
+	i. Installing Git 
 	ii. Signing up with Github
 2. Use the **command line**
 3. Push code to a **repository**
